@@ -1,0 +1,14 @@
+{application, libcloudfront,
+ [{description,  "CloudFront Cookie/URL signing library."},
+  {vsn,          "0.1.0"},
+  {registered,   []},
+  {applications, [kernel, stdlib]},
+  {env,          []},
+  {modules,      [libcloudfront]},
+
+  {maintainers,  ["Eric Bailey"]},
+  {licenses,     ["BSD-3"]},
+  {links,
+   [{"GitHub",        "https://github.com/quasiquoting/libcloudfront"},
+    {"Documentation", "http://quasiquoting.org/libcloudfront"}]}
+ ]}.
