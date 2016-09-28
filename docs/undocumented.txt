@@ -1,0 +1,4 @@
+== libcloudfront ==
+to_params/1
+to_cookie/1
+credentials/3
