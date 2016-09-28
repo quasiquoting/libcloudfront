@@ -3,7 +3,7 @@
   {vsn,          "0.1.0"},
   {registered,   []},
   {applications, [kernel, stdlib]},
-  {env,          []},
+  {env,          [{key_pair_id, <<"AKEXAMPLE123">>}]},
   {modules,      [libcloudfront]},
 
   {maintainers,  ["Eric Bailey"]},
