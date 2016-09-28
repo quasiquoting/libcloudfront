@@ -1,5 +1,10 @@
 # libcloudfront
 
+[![Build Status][Travis badge]][Travis link]
+
+[Travis badge]: https://travis-ci.org/quasiquoting/libcloudfront.svg?branch=master
+[Travis link]: https://travis-ci.org/quasiquoting/libcloudfront
+
 CloudFront Cookie/URL signing library.
 
 
